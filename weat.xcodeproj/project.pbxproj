@@ -417,6 +417,7 @@
 				2FEAC1271B1BA00800B272FB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2FEAC1281B1BA00800B272FB /* Build configuration list for PBXNativeTarget "weatTests" */ = {
 			isa = XCConfigurationList;
@@ -425,6 +426,7 @@
 				2FEAC12A1B1BA00800B272FB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
